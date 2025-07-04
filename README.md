@@ -1,7 +1,3 @@
-有好思路请加微信，不太会开发还是借用ai帮助的不到位的地方请见谅
-
-
-
 # CvnH - 一款为Burp Suite打造的智能规则驱动Fuzz框架
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -136,5 +132,5 @@
 
 
 
-
+有好思路请加微信，不太会开发还是借用ai帮助的不到位的地方请见谅
 ![image](https://github.com/user-attachments/assets/98a6fcf4-765b-403d-9419-11f1f7b72835)
