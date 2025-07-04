@@ -43,10 +43,12 @@
 ## 📸 界面截图
 
 **(配置面板 - 统一管理规则与Payload)**
-*![image-20250704164234813](C:\Users\11375\AppData\Roaming\Typora\typora-user-images\image-20250704164234813.png)*
+![image](https://github.com/user-attachments/assets/c08ced82-5446-476d-88da-b8add61e3741)
+
 
 **(攻击面板 - 动态筛选分析结果)**
-![image-20250704164320632](C:\Users\11375\AppData\Roaming\Typora\typora-user-images\image-20250704164320632.png)
+![image](https://github.com/user-attachments/assets/78631543-7508-45d1-83d9-f2aaaa71dfda)
+
 **
 
 
