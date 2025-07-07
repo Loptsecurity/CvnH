@@ -135,5 +135,5 @@
 
 
 
-有好思路请加微信，不太会开发还是借用ai帮助的不到位的地方请见谅
+有好思路请加微信，不太会开发还不到位的地方请见谅
 ![image](https://github.com/user-attachments/assets/98a6fcf4-765b-403d-9419-11f1f7b72835)
