@@ -43,7 +43,8 @@
 ## 📸 界面截图
 
 **(配置面板 - 统一管理规则与Payload)**
-![6233be73c9f45387d44ddf13d1859ee9](https://github.com/user-attachments/assets/5e4ec773-089b-45a5-8c8b-488dce6c8fd8)
+![image](https://github.com/user-attachments/assets/bb3b9084-a4d0-43d3-8951-ab0433dd5373)
+
 
 
 
