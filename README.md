@@ -43,11 +43,13 @@
 ## 📸 界面截图
 
 **(配置面板 - 统一管理规则与Payload)**
-![image](https://github.com/user-attachments/assets/c08ced82-5446-476d-88da-b8add61e3741)
+![6233be73c9f45387d44ddf13d1859ee9](https://github.com/user-attachments/assets/5e4ec773-089b-45a5-8c8b-488dce6c8fd8)
+
 
 
 **(攻击面板 - 动态筛选分析结果)**
-![image](https://github.com/user-attachments/assets/78631543-7508-45d1-83d9-f2aaaa71dfda)
+![b0ffea8aba3739fb72fd63bbbf84b320](https://github.com/user-attachments/assets/3e53a951-ddae-4247-8e26-9a830343ea70)
+
 
 **
 
@@ -57,7 +59,7 @@
 ## 🚀 安装指南
 
 1.  前往项目的 **Releases** 页面 。
-2.  下载最新的 `CvnH-vX.X-jar-with-dependencies.jar` 文件。
+2.  下载最新的 `CvnH.jar` 文件。
 3.  打开 Burp Suite, 前往 `Extender` -> `Extensions` 标签页。
 4.  点击 `Add` 按钮，选择刚才下载的 JAR 文件。
 5.  插件加载成功后，您应该能看到一个名为 "CvnH" 的新主标签页。
